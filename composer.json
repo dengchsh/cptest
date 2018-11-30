@@ -9,6 +9,7 @@
             "email": "464782781@qq.com"
         }
     ],
+    "minimum-stability": "2",
     "require": {
         "php": ">=7.0.0"
     },
